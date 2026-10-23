@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SunriseHomestayApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8080c691ebed59da70f88cc85254172b1d0c3fb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SunriseHomestayApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SunriseHomestayApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

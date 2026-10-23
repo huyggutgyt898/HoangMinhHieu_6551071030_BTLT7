@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Subject\\Visual programming\\BTtuan7\\TriThucBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B518BF5-8D22-4B05-AC26-97B9D909E98A}|TriThucBooks.csproj|d:\\subject\\visual programming\\bttuan7\\trithucbooks\\models\\theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B518BF5-8D22-4B05-AC26-97B9D909E98A}|TriThucBooks.csproj|solutionrelative:models\\theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B518BF5-8D22-4B05-AC26-97B9D909E98A}|TriThucBooks.csproj|d:\\subject\\visual programming\\bttuan7\\trithucbooks\\models\\trithubooks_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B518BF5-8D22-4B05-AC26-97B9D909E98A}|TriThucBooks.csproj|solutionrelative:models\\trithubooks_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B518BF5-8D22-4B05-AC26-97B9D909E98A}|TriThucBooks.csproj|d:\\subject\\visual programming\\bttuan7\\trithucbooks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B518BF5-8D22-4B05-AC26-97B9D909E98A}|TriThucBooks.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheLoaiSach.cs",
+              "DocumentMoniker": "D:\\Subject\\Visual programming\\BTtuan7\\TriThucBooks\\Models\\TheLoaiSach.cs",
+              "RelativeDocumentMoniker": "Models\\TheLoaiSach.cs",
+              "ToolTip": "D:\\Subject\\Visual programming\\BTtuan7\\TriThucBooks\\Models\\TheLoaiSach.cs",
+              "RelativeToolTip": "Models\\TheLoaiSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T03:10:39.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TriThuBooks_dbContext.cs",
+              "DocumentMoniker": "D:\\Subject\\Visual programming\\BTtuan7\\TriThucBooks\\Models\\TriThuBooks_dbContext.cs",
+              "RelativeDocumentMoniker": "Models\\TriThuBooks_dbContext.cs",
+              "ToolTip": "D:\\Subject\\Visual programming\\BTtuan7\\TriThucBooks\\Models\\TriThuBooks_dbContext.cs",
+              "RelativeToolTip": "Models\\TriThuBooks_dbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:58:55.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Subject\\Visual programming\\BTtuan7\\TriThucBooks\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Subject\\Visual programming\\BTtuan7\\TriThucBooks\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:15:20.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
